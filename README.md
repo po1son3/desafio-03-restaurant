@@ -1,0 +1,2 @@
+# NOTAS SOBRE LA ENTREGA 3 PARTE 2
+intente hacerlo tal cual esta en el video, pero en la version comun(en cuanto a px) que supongo que sera 2867x1630(COMO EN EL VIDEO), por eso es que movi algunas imagenes, desde ya muchas gracias

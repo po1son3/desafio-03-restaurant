@@ -11,4 +11,9 @@ h1 {
 
 img {
     border: 10px solid white;
+    margin: 5px;
+}
+
+.img-chica {
+    width: 13.4%;
 }
